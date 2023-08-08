@@ -4,3 +4,8 @@ The different types of travel
 3.The Package Holiday
 4.The Group Tour
 5.The Caravan/RV Road Trip
+6.Volunteer Travel
+7.Long Term Slow Travel
+8.Visiting Friends or Relatives
+9.Event Travel
+10.Business Travel
